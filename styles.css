@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #fff;
+    font-weight: 700;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: orange;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+.container{
+    background-color: #fff;
+}
+nav ul li:hover{
+    color: red;
+    background-color: aqua;
+}
+.content{
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    margin-left: 60px;
+}
